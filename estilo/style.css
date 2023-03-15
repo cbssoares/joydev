@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+header{
+    background-color:black;
+    font-family: 'Chakra Petch', sans-serif;
+    margin-bottom: 10px;
+    padding: 2px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.267);
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: white;
+    text-align: left;
+    background-color:#1D5ED8;
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.267);
+
+}
+
+header p{
+    display: inline;
+    margin: 12px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    padding: 5px;
+
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+header a:hover{
+    color: #1D5ED8;
+}
+
+body{
+    background-color: #24282D;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    background-color:white;
+    color: black ;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 900px;
+    height: 430px;
+    border-radius: 15px 0px 0px 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.267);
+}
+
+section .sectimg {
+    padding: 0px 0px 0px 0px;
+    margin: -134px -10px 0px 0px;
+    float: right;
+    display: inline;
+    object-fit: contain;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.267);
+}
+
+section p{
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  width: 400px;
+  text-align: left;
+  text-align: justify;
+  font-size: medium;
+}
+
+section h1{
+    margin: -10px -1px 0px -10px;
+    padding: 14px 50px 10px 20px;
+    width: 400px;
+    display: inline-block;
+    background-color:#1D5ED8;
+    color: black;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 2em;
+    border-radius: 10px 0px 0px 0px;
+    
+}
+
+section h2 {
+    margin: 20px;
+    display: inline-block;
+}
+
+#pro{
+    float: right;
+    padding: 0px 0px 0px 0px;
+    margin: -285px 54px 0px 0px;
+}
+
+#ant{
+    float: left;
+    margin: -285px 0px 0px 54px;
+
+}
+    
