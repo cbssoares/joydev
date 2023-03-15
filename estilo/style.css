@@ -99,11 +99,13 @@ section h2 {
     float: right;
     padding: 0px 0px 0px 0px;
     margin: -285px 54px 0px 0px;
+    cursor: pointer;
 }
 
 #ant{
     float: left;
     margin: -285px 0px 0px 54px;
+    cursor: pointer;
 
 }
     
