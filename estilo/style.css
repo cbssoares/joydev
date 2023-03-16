@@ -80,7 +80,7 @@ section p{
 section h1{
     margin: -10px -1px 0px -10px;
     padding: 14px 50px 10px 20px;
-    width: 400px;
+    width: 850px;
     display: inline-block;
     background-color:#1D5ED8;
     color: black;
@@ -107,4 +107,12 @@ section h2 {
     margin: -285px 0px 0px 54px;
     cursor: pointer;
 }
-    
+
+i{
+    font-size: 100px;
+    color: black;
+}
+
+i:hover{
+    color: #1D5ED8 ;
+}
