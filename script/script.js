@@ -19,17 +19,3 @@ function ant(){
         m.appendChild(sect[contador])
     }
 }
-function blue1(){
-    prox.setAttribute('src', 'imagens/seta-direitaA.png')
-}
-function blue2(){
-    ante.setAttribute('src', 'imagens/seta-esquerdaA.png')
-}
-function normal1(){
-    prox.setAttribute('src', 'imagens/seta-direita.png')
-
-}
-function normal2(){
-    ante.setAttribute('src', 'imagens/seta-esquerda.png')
-
-}
